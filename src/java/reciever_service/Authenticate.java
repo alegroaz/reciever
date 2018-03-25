@@ -21,7 +21,7 @@ import javax.ws.rs.core.MediaType;
  *
  * @author alegr
  */
-@Path("autenthication")
+@Path("authentication")
 public class Authenticate {
 
     @Context
