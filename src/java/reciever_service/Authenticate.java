@@ -56,6 +56,6 @@ public class Authenticate {
         System.out.println(data);
         
         
-        return "Grazie mona";
+        return "Ricevuto. Passo e chiudo.";
     }
 }
